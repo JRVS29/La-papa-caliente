@@ -5,10 +5,14 @@
  */
 package la.papa.caliente;
 
-/**
- *
- * @author Gabo
- */
-public class Lista {
+    class Lista {
+    
+        nodo L, aux, aux2;
+    
+
+    public void agregar(){
+
+}
+    
     
 }

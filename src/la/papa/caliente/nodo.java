@@ -11,4 +11,8 @@ package la.papa.caliente;
  */
 public class nodo {
     
+    int valor;
+    nodo ant;
+    nodo  sig;
+      
 }
