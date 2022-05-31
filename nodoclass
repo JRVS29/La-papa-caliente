@@ -1,0 +1,7 @@
+package papa caliente;
+
+ public  class nodo() {
+ String jugadores;
+ nodo siguiente;
+ nodo anterior;
+ }
